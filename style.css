@@ -65,7 +65,7 @@ body{
     cursor: pointer;
 
     height: 30px;
-    flex: 1;
+    flex: 1;/*notes- this flex will give it width*/
     
 }
 .belownav{
